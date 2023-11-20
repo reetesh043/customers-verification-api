@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Reetesh",
+      "age": 30,
+      "email": "reet.k@test.com"
+    },
+    {
+      "name": "Kumar",
+      "id": 2,
+      "age": 40,
+      "email": "kumr.k@test.com"
+    }
+  ],
+  "validate": {
+    "message": "KYC Successful"
+  }
+}
