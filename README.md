@@ -39,10 +39,19 @@ Create a new file with the name db.json and add the following contents inside it
 }
 ```
 Open package.json file and add the scripts section inside it:
+
 ```
 "scripts": {
   "start": "json-server db.json"
 }
 ```
+
+### Start the application
 Now, start the application by running the npm start command from the terminal.
+You will see the following screen when you access it at http://localhost:3000/
+
+![Alt text](https://github.com/reetesh043/customers-verification-api/blob/main/json_server_1.png?raw=true)
+
+If you click the /customers link under the resources section, you will see the following screen
+
 
