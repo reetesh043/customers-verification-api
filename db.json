@@ -12,5 +12,8 @@
       "age": 40,
       "email": "kumr.k@test.com"
     }
-  ]
+  ],
+  "validate": {
+    "message": "KYC Successful"
+  }
 }
