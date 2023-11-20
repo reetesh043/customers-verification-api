@@ -54,4 +54,8 @@ You will see the following screen when you access it at http://localhost:3000/
 
 If you click the /customers link under the resources section, you will see the following screen
 
+![Alt text](https://github.com/reetesh043/customers-verification-api/blob/main/customer_resource.png?raw=true)
+
+Congratulations! you've just written your own REST API server without writing a single line of code. Now we can make GET, POST, PUT, PATCH and DELETE API calls to our own API.
+
 
